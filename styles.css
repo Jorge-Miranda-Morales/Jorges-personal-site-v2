@@ -1,0 +1,158 @@
+
+body {
+
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.3rem;
+  background-color: #F0F0F0;
+  color: #40514E;
+}
+
+
+h1 {
+  font-size: 3.75rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Limelight', cursive;
+  color: #11324D;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Raleway', sans-serif;
+  color: #11324D;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #9D84B7;
+}
+
+p{
+  line-height: 1.6;
+}
+
+a{
+  color: #9D84B7;
+  font-family: 'Raleway', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #FC28FB;
+}
+
+hr{
+  border: dotted #798777 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+.top-container {
+  background-color: #798777;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration:underline;
+}
+
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.cyber-poonk {
+  width:25%;
+  margin-top: 30px;
+}
+
+.middle-container {
+  margin: 100px 0 100px 0;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.computer-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.kitty-coding-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.contact-me{
+  margin-bottom: 50px;
+}
+
+.bottom-container {
+  height: 100px;
+  background-color: #11324D;
+  padding:50px 0 20px;
+
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #FFFFFF;
+  font-size: 22px;
+  background: #11324D;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #11324D;
+  text-decoration: none;
+}
+
+
+.footer-link{
+
+}
+
+.copyright{
+  padding: 20px 0;;
+  color: #F0F0F0;
+  font-size: 0.75rem;
+}
